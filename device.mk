@@ -178,6 +178,10 @@ PRODUCT_PROPERTY_OVERRIDES += ro.incremental.enable=1
 PRODUCT_PACKAGES += \
     vendor.lineage.fastcharge@1.0-service.xiaomi_cepheus
 
+# Fastbootd
+PRODUCT_PACKAGES += \
+    fastbootd
+
 # Fingerprint
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.3-service.cepheus \
