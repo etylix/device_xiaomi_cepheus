@@ -15,10 +15,7 @@
 
     <!-- About device screen, build maintainer -->
     <string name="build_device_url">https://t.me/EvolutionXCepheus</string>
-    <string name="build_maintainer_summary">Chema Funtan (@chematelegram)</string>
-    <string name="build_maintainer_donate_url">https://www.paypal.com/paypalme/chfondia</string>
-
-    <!-- Build status -->
-    <string name="build_status_summary">Stable</string>
+    <string name="build_maintainer_summary">@etylix</string>
+    <string name="build_maintainer_donate_url">https://ko-fi.com/etylix</string>
 
 </resources>

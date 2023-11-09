@@ -12,9 +12,6 @@ persist.vendor.camera.multicam=TRUE
 # Dex2oat
 dalvik.vm.systemuicompilerfilter=speed
 
-# Display density
-ro.sf.lcd_density=440
-
 # Graphics
 ro.surface_flinger.has_wide_color_display=true
 ro.surface_flinger.has_HDR_display=true
